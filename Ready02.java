@@ -6,3 +6,5 @@ public class Ready02 {
         System.out.println("Hello Java!");
     }
 }
+
+
